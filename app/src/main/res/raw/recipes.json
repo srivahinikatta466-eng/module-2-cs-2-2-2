@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Pancakes",
+    "description": "Fluffy and delicious homemade pancakes.",
+    "imageUrl": "https://example.com/pancakes.jpg",
+    "prepTime": "10 mins",
+    "cookTime": "15 mins",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "Flour",
+        "quantity": "1.5",
+        "unit": "cups"
+      },
+      {
+        "name": "Milk",
+        "quantity": "1.25",
+        "unit": "cups"
+      }
+    ],
+    "steps": [
+      "Whisk dry ingredients.",
+      "Add wet ingredients and mix.",
+      "Cook on a griddle until golden brown."
+    ]
+  }
+]
